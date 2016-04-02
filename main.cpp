@@ -21,5 +21,4 @@ int division (int a, int b){
 
 int main()
 {
-
 }
